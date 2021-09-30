@@ -1,1 +1,3 @@
 This is some text
+This is an additional text for the Github excercise.
+I like GIT
